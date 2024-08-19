@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+ #container{
+    box-sizing: border-box;
+    align-items: center;
+    width: 90%;
+    height: 150vh;
+    border: 2px solid black;
+    padding:10px;
+    margin:auto;
+    text-align: center;
+    background-color: yellowgreen;
+
+} 
+input{
+    font-size: 15px;
+    }
+    button{
+        padding:10px;
+        border-radius: 20px;
+        font-size: 10px; 
+    }
+    button:hover{
+        background-color: gold;
+        color:green;
+               
+    }
+    #score{
+        font-size: 30px;
+        color:green
+    }
